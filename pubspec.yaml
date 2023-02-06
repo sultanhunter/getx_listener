@@ -1,10 +1,10 @@
 name: getx_listener
-description: A new Flutter package project.
-version: 0.0.1
-homepage: null
+description: Widget to listen and get callback to state changes of Obs/Rx variables when using getx framework
+version: 1.0.0
+homepage: https://github.com/sultanhunter/getx_listener
 
 environment:
-  sdk: '>=2.19.0-27.0.dev <3.0.0'
+  sdk: ">=2.19.0 <3.0.0"
   flutter: ">=1.17.0"
 
 dependencies:
@@ -22,7 +22,6 @@ dev_dependencies:
 # following page: https://dart.dev/tools/pub/pubspec
 # The following section is specific to Flutter packages.
 flutter: null
-
 # To add assets to your package, add an assets section, like this:
 # assets:
 #   - images/a_dot_burr.jpeg

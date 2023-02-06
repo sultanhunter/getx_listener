@@ -1,3 +1,4 @@
-## 0.0.1
+## 1.0.0
 
-* TODO: Describe initial release.
+Widget to listen and get callback to state changes of Obs/Rx variables when using getx framework
+
